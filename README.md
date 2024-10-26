@@ -6,7 +6,7 @@ Ce projet utilise un modèle de machine learning pour prédire la Direction Rég
 
 ## Dataset
 
-Le dataset utilisé pour ce projet est open source et peut être consulté [ici](https://data.gouv.ci/datasets/liste-des-etablissements-secondaires-recenses-en-2008-2009). Il contient des informations sur les établissements secondaires recensés en 2008-2009 en Côte d'Ivoire, y compris :
+Le dataset utilisé pour ce projet est open source et peut être consulté [ici](https://data.gouv.ci/datasets/liste-detablissements-scolaires-dabidjan-etab-ci). Il contient des informations sur les établissements secondaires en Côte d'Ivoire, y compris :
 
 - Nom d'établissement
 - Situation géographique
