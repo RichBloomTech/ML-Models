@@ -1,5 +1,3 @@
-Voici un exemple de mise à jour pour le fichier README concernant votre projet de prédiction de la DREN :
-
 ---
 
 # Prédiction de la DREN d'un Établissement Scolaire
