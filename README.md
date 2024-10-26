@@ -1,6 +1,6 @@
 ---
 
-# Prédiction de la DREN d'un Établissement Scolaire
+# Prédiction de la DREN d'un Établissement Scolaire Secondaire en Côte d'Ivoire
 
 Ce projet utilise un modèle de machine learning pour prédire la Direction Régionale de l'Éducation Nationale (DREN) d'un établissement scolaire en se basant sur des caractéristiques disponibles dans le dataset.
 
